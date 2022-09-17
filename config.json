@@ -1,0 +1,26 @@
+{
+    "prefix": "-",
+    "mongoPath": "mongodb+srv://EnzyyXdb:pouldim85@cluster0.idcj6.mongodb.net/test",
+    "token": "OTY2NDE5MjQ2MzgyOTc3MDg1.G31Jtv.4_5sf_yVcuOk1MTr-DeeViM7E6KAkGyjWEMI3s",
+
+    "____INFO____": "Developer Access",
+    "Developer": ["655147826057183274"],
+
+    "___INFO____": "All Commands",
+    "Owner": ["359412929122009099", "655147826057183274", "335896793415942146"],
+
+    "___INFO___": "Practice Helper Commands",
+    "Helper": ["914201568721653780"],
+
+    "__INFO___": "Basic Division 3 Commands",
+    "Division3": ["902656971155599411","902656971138805787","943570529581953065"],
+
+    "__INFO__": "Access to all Staff Hub Commands",
+    "StaffHub": ["904440496498286593"],
+
+    "_INFO__": "Access all Invite Commands",
+    "Invites": ["854739386776289331","902656971155599411"],
+
+    "_INFO_": "Help Commands",
+    "Commands": ["854739386776289331","914201568721653780", "854726692072718336"]
+}

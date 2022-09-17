@@ -1,0 +1,25 @@
+{
+  "name": "multi-purpose-beta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy-commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enzyy X",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "ascii-table": "^0.0.9",
+    "axios": "^0.27.2",
+    "discord-api-types": "^0.36.3",
+    "discord-timestamps": "^0.1.4",
+    "discord.js": "^14.0.3",
+    "discord.js13": "npm:discord.js@^13.7.0",
+    "figlet": "^1.5.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.4.6",
+    "ms": "^2.1.3",
+    "random": "^3.0.6"
+  }
+}
